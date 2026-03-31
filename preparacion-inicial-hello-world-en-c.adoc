@@ -25,14 +25,27 @@ Adquirir y preparar los recursos necesarias para resolver los trabajos del curso
 .. Si no tiene, cree una cuenta _GitHub_.
 .. Si no lo hizo, asocie a su cuenta _GitHub_ el email @frba y verifíquelo. 
 Es posible asociar más de una cuenta email a una cuenta _GitHub_.
+https://github.com/settings/emails
 +
-image::GitHubProfileAddEmailAddresses.png[width=35%]
+image::GitHubProfileAddEmailAddresses.png[width=100%]
 
 .. Si no lo hizo, indique que su cuenta email @frba es **pública**.
 Esto permite a la cátedra encontrar a los estudiantes.
 Si por temas de privacidad prefiere no tener como pública esa dirección, puede cambiarla al final del proceso.
+https://github.com/settings/profile
 +
-image::GitHubProfilePublicEmail.png[width=35%]
+image::GitHubProfilePublicEmail.png[width=100%]
+
+..  Verifique que su cuenta puede encontrarse a partir del mail institucional. Para ello abra una ventana privada/de incógnito en su navegador. Vaya a https://github.com/ y arriba a la derecha, donde tiene para buscar ingrese su email institucional. Compruebe que encuentres un usuario y que este sea el suyo.
++
+image::GithubSearch.png[width=100%]
++
+image::GithubSearchResult.png[width=100%]
+
++
+Si no fuciona:
+... Verifique haber seguido correctamente los pasos.
+... En settings → email verifique que la opción “Keep my email addresses private” esté deschequeada
 
 . *Repositorio para público para la materia*
 .. Cree un repositorio público llamado
@@ -100,8 +113,9 @@ Con el número de equipo y cuenta @frba, la Cátedra le envía la invitación al
 
 
 === Productos
-[{tree-block-type}]
---
+
+[source,text]
+----
 Usuario                 // Usuario GitHub
 `-- SSL                 // Repositorio público para la materia
     |-- readme.md       // Archivo front page del usuario
@@ -109,8 +123,7 @@ Usuario                 // Usuario GitHub
         |-- readme.md   // Archivo front page del trabajo
         |-- hello.c     // Archivo fuente del programa
         `-- output.txt  // Archivo con la salida del programa
---
-
+----
 === Referencia
 * <<CompiladoresInstalacion>>
 * <<KR1988>> § 1.1 Comenzado
