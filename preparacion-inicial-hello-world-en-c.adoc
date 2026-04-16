@@ -106,7 +106,7 @@ Consideramos que es una buena oportunidad para armar equipo para los trabajos si
 El docente del curso indica la cantidad de integrantes mínima y máxima por equipo.
 
 .. Informe el número de equipo en
-https://docs.google.com/spreadsheets/d/19MZodiTIjD2WuImE8Y0WijNxIRdfL6vF_DvCn3uYlWg[esta lista].
+https://docs.google.com/spreadsheets/d/1IpGPO652X3PUfgXupw2CyQHHyvqtV8lot5exs0ABINM[esta lista].
 +
 Con el número de equipo y cuenta @frba, la Cátedra le envía la invitación al repositorio privado del equipo, por eso es importante que su cuenta _GitHub_ tenga asociado como email público su email @frba, tal como indica el primer paso.
 .. Luego de aceptar la invitación al repositorio privado del equipo, si lo desea, puede cambiar el email público en _GitHub_.
