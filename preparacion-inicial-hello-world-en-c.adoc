@@ -105,8 +105,8 @@ Aunque el trabajo es individual, fomentamos la colaboración entre compañeros p
 Consideramos que es una buena oportunidad para armar equipo para los trabajos siguientes que en su mayoría son grupales.
 El docente del curso indica la cantidad de integrantes mínima y máxima por equipo.
 
-.. Informe el número de equipo en
-https://docs.google.com/spreadsheets/d/1IpGPO652X3PUfgXupw2CyQHHyvqtV8lot5exs0ABINM[esta lista].
+.. Informe el número de equipo junto a otros datos como el usuario de github y enlace al repositorio del TP0 en el siguiente
+https://script.google.com/a/macros/frba.utn.edu.ar/s/AKfycbzGxEiscdBSbGzcO0ZxnYODicIDSjeAkcfX7DqSc9J8zIX05RuNgF_hmHvv33Q-TwUFwQ/exec[formulario].
 +
 Con el número de equipo y cuenta @frba, la Cátedra le envía la invitación al repositorio privado del equipo, por eso es importante que su cuenta _GitHub_ tenga asociado como email público su email @frba, tal como indica el primer paso.
 .. Luego de aceptar la invitación al repositorio privado del equipo, si lo desea, puede cambiar el email público en _GitHub_.
